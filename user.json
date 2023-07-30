@@ -1,15 +1,41 @@
 [
+ {
+    "enable": true,
+    "alias": "郭钨名",
+    "phone": "13183153867",
+    "password": "glf021122",
+    "deviceType": "iphone14",
+    "deviceId": "e938445cf6434e8fa3ab452417b7a74ee390",
+    "randomLocation": true,
+    "address": "河南省安阳市滑县上官镇工业区",
+    "longitude": "114.64975",
+    "latitude": "35.38530",
+    "pushKey": "5c94459db16e466ab562e21861a8dfee"
+  },
   {
     "enable": true,
-    "alias": "张三",
-    "phone": "18888888888",
-    "password": "123456...",
-    "randomLocation": false,
-    "deviceType": "Xiaomi|Mi 13|13",
-    "deviceId": "设备ID",
-    "address": "打卡地址",
-    "longitude": "位置经度",
-    "latitude": "位置纬度",
-    "pushKey": "推送Key"
+    "alias": "赵超凡",
+    "phone": "18864036656",
+    "password": "zhao123...",
+    "deviceType": "iphone12",
+    "deviceId": "e938445cf6434e8fa3ab452417b7a74ee390",
+    "randomLocation": true,
+    "address": "河南省安阳市滑县上官镇工业区",
+    "longitude": "114.64975",
+    "latitude": "35.38530",
+    "pushKey": "5c94459db16e466ab562e21861a8dfee"
+  },
+  {
+    "enable": true,
+    "alias": "吴琦",
+    "phone": "19913768330",
+    "password": "qw2194833630",
+    "deviceType": "iphone13",
+    "deviceId": "e938445cf6434e8fa3ab452417b7a74ee390",
+    "randomLocation": true,
+    "address": "河南省安阳市滑县上官镇工业区",
+    "longitude": "114.64975",
+    "latitude": "35.38530",
+    "pushKey": "5c94459db16e466ab562e21861a8dfee"
   }
 ]
